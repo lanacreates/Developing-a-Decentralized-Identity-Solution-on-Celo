@@ -12,6 +12,7 @@ Before you start, ensure you have the following software installed on your compu
 ## Getting Started
 
 - Clone the repository:
+
 bash
 ```git clone https://github.com/your-username/decentralized-identity-celo.git```
 ```cd decentralized-identity-celo```
