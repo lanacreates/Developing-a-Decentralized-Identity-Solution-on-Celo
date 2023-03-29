@@ -26,7 +26,7 @@ module.exports = (env) => {
       }),
       new webpack.IgnorePlugin({ resourceRegExp: /\.js\.map$/ }), // Add a comma here
       new HtmlWebpackPlugin({
-        template: path.resolve(__dirname, '/home/lanacreates/celo-did/client/public/index.html'),
+        template: path.resolve(__dirname, 'celo-did/client/public/index.html'),
         publicPath: '/',
         inject: 'body',
         minify: {
